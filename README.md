@@ -16,6 +16,10 @@ A read-only Model Context Protocol (MCP) server for ADIOS datasets, enabling LLM
 - **Cross-Platform**  
   Pure Python implementation runs on Linux, macOS, and Windows. Package installable via `pip` or Spack.
 
+## Architecture
+
+ ![](https://github.com/sohamvsonar/AdiosMCP/blob/main/assets/architecture.png)
+
 
 ## Example Use-Cases
 
