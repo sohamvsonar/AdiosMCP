@@ -1,6 +1,6 @@
 # ADIOS MCP Server
 
-A lightweight, read-only Model Context Protocol (MCP) server for ADIOS datasets, enabling LLMS to query scientific simulation and real-time data.
+A read-only Model Context Protocol (MCP) server for ADIOS datasets, enabling LLMS to query scientific simulation and real-time data.
 
 ## Key Features
 
